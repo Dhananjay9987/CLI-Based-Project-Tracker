@@ -39,22 +39,34 @@ invoicing or reporting.
    o python
    o CopyEdit
    o projects = { "project_name": {"rate": 500, "logs": [ ... ]} }
+   
 • Each time, the log stores:
   o Start time (HH: MM)
   o End time (HH: MM)
   o Duration (calculated in hours)
   o Optional note
+  
 • GUI fields collect user input, validate formats (e.g., correct time, numbers), and
   Update the data in real time.
+  
 • The Treeview widget is used to display logs with billing info.
+
 • A summary section totals hours and earnings per project.
+
 • CSV export function generates a structured log file for external use (billing/invoicing).
 
 # What You Learned:
+
 • Designing user-friendly GUI layouts using Tkinter
+
 • Implementing time calculations with datetime.strptime()
+
 • Using Treeview for dynamic table rendering in the GUI
+
 • Validating user input and showing error/info messages
+
 • Storing structured data in Python dictionaries
+
 • File handling and exporting logs using CSV writer
+
 • Event-driven programming in desktop applications
