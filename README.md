@@ -26,7 +26,7 @@ invoicing or reporting.
 | GUI-Based Interaction | User-friendly layout with dropdown menus, table view, and feedback alerts |
 
 # Technologies Used:
-Technology 
+
 1. Python 3:- Core programming language
 2. Tkinter:- GUI development for desktop interface
 3. Datetime module:- Time parsing and duration calculation
@@ -34,6 +34,7 @@ Technology
 5. ttk.Treeview:- Rendering project logs in table form
 
 # Core Logic:
+
 • Projects are stored in a dictionary:
    o python
    o CopyEdit
