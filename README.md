@@ -16,13 +16,14 @@ spent on each task, calculate billing automatically based on hourly rates, and e
 invoicing or reporting.
 
 # Key Features:
-Feature           ----------           Description
-1. Add Projects  -----                 Add multiple projects with unique names and hourly billing rates
-2. Log Time Entries --------           Record start time, end time, and notes for each project task
-3. Auto Billing Calculation --------    Automatically calculates billable hours and multiplies them by the hourly rate
-4. Export Logs to CSV  ----------      Save all logs to a CSV file with detailed project/task records
-5. Project Summary       ---------     View total hours and earnings per project in a dedicated summary section
-6. GUI-Based Interaction ---------     User-friendly layout with dropdown menus, table view, and feedback alerts
+|Feature            |    Description      |
+|--------------------------------------|-------------------------------------------|
+| Add Projects  | Add multiple projects with unique names and hourly billing rates |
+| Log Time Entries | Record start time, end time, and notes for each project task |
+| Auto Billing Calculation | Automatically calculates billable hours and multiplies them by the hourly rate |
+| Export Logs to CSV | Save all logs to a CSV file with detailed project/task records |
+| Project Summary | View total hours and earnings per project in a dedicated summary section |
+| GUI-Based Interaction | User-friendly layout with dropdown menus, table view, and feedback alerts |
 
 # Technologies Used:
 Technology 
